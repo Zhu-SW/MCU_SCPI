@@ -1,13 +1,15 @@
-/*******************************************************************************
-File name    :scpi.c
-Author       :ZSW
-Version      :V1.0
-Date         :2025-05-12
-Description  :SCPI协议栈
-Others       :
-History Date  Version     Author                Modification
-2025-05-12     V1.0        ZSW                    初始版本
-*******************************************************************************/
+/**
+  * @file scpi.c
+  * @author ZSW
+  * @brief SCPI协议栈核心文件
+  * @version 1.0
+  * @date 2025-05-12
+  *
+  * SPDX-License-Identifier: BSD 3-Clause
+  * Copyright (c) 2025, ZSW
+  * All rights reserved.
+  */
+
 #include "scpi_cmd.h"
 #include "scpi.h"
 #include <stdbool.h>

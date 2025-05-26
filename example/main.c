@@ -1,13 +1,15 @@
-/*******************************************************************************
-File name    :main.c
-Author       :ZSW
-Version      :V1.0
-Date         :2025-05-24
-Description  :SCPI协议栈演示例程
-Others       :
-History Date  Version     Author                Modification
-2025-05-24     V1.0        ZSW                    初始版本
-*******************************************************************************/
+/**
+  * @file main.c
+  * @author ZSW
+  * @brief SCPI协议栈演示例程
+  * @version 0.1
+  * @date 2025-05-26
+  *
+  * SPDX-License-Identifier: BSD 3-Clause
+  * Copyright (c) 2025, ZSW
+  * All rights reserved.
+  */
+
 #include "scpi.h"
 #include <string.h>
 #include <stdio.h>
